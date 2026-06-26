@@ -1,0 +1,6 @@
+# Ignore local JDK and installer files
+oracleJdk-26/
+git-installer.exe
+*.exe
+*.log
+*.class
